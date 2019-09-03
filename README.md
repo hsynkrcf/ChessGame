@@ -7,4 +7,4 @@
 
 >Taşlar random hareket eder ve bir karede taş var ise program yeniden ona konum atar.
 
-![SatrancOyunu](https://www.resimag.com/p1/747b64fe6ad.png)
+<img src="https://www.resimag.com/p1/747b64fe6ad.png" alt="SatrancOyunu" width="700" height="500" />
